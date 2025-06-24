@@ -1,5 +1,5 @@
 # atmospheric-sensor
-A demonstration of reading data from a BME280 atmospheric sensor.
+A demonstration of reading data from a BME280 atmospheric sensor using python.
 
 ## Table of Contents
 
