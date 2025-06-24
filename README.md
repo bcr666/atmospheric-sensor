@@ -15,7 +15,10 @@ A demonstration of reading data from a BME280 atmospheric sensor using python.
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/bcr666/atmospheric-sensor
 cd project-name
-npm install  # or pip install -r requirements.txt for Python projects
+python3 -m venv {your environment name | def-env}
+source {your environment name}/bin/activate
+pip install -r requirements.txt
+
 
