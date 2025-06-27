@@ -23,4 +23,4 @@ The read_bme280.py has a shebang, so it can be executed directly by
 
 ./read_bme280.py
 
-The program will read the data from the sensor every 5 minutes.
+The program will read the data from the sensor every 5 seconds.
