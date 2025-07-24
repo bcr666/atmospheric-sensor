@@ -32,7 +32,7 @@ The program will read the data from the sensor every 5 seconds.
 ## Pinout
 This resource was helpful in determining where I should connect my BME280 leads. https://pinout.xyz/
 For my wiring, I am using the I2C protocol, which only requires 4 wires.
-  Red - Pin 1
-  Blue - Pin 3
-  Yellow - Pin 5
-  Black - Pin 6
+* Red - Pin 1
+* Blue - Pin 3
+* Yellow - Pin 5
+* Black - Pin 6
